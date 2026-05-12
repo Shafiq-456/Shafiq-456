@@ -1,100 +1,108 @@
 <div align="center">
-  <img src="https://github.com/Shafiq-456/Shafiq-456/blob/main/assets/banner.gif" alt="Mohammed Shafiq Banner" width="100%" style="border-radius: 15px;"/>
+  <img src="https://github.com/Shafiq-456/Shafiq-456/blob/main/assets/banner.png" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
   
-  <h1>Hey there! I'm Mohammed Shafiq 👋</h1>
+  <h1 style="font-size: 3.2rem; margin: 20px 0 10px;">Mohammed Shafiq</h1>
+  <h3><strong>Code Alchemist • AI Engineer • Product Architect</strong></h3>
   
   <p>
-    <strong>I turn caffeine into code and ideas into shipped products.</strong><br>
-    Full-Stack Developer | AI Engineer | Mobile Architect | ERP Builder
+    I craft intelligent systems that don't just work — <strong>they inspire</strong>.<br>
+    Turning complex problems into elegant, scalable solutions.
   </p>
 
   <a href="https://github.com/Shafiq-456">
-    <img src="https://img.shields.io/github/followers/Shafiq-456?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/Shafiq-456?style=for-the-badge&logo=github&label=Follow&color=181717" alt="Followers"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 
   <br><br>
-  <strong>📍 Tiruppur, Tamil Nadu, India 🇮🇳 | Open to Full-Time Roles 🚀</strong>
+  <strong>📍 Tiruppur, Tamil Nadu, India 🇮🇳 &nbsp; | &nbsp; Open to Full-Time SDE Roles 🚀</strong>
 </div>
 
 ---
 
-### 🚀 Who Am I?
+### 👋 The Vision
 
-```python
-class MohammedShafiq:
-    def __init__(self):
-        self.name = "Mohammed Shafiq"
-        self.role = "Code Alchemist & Product Architect"
-        self.location = "India 🇮🇳"
-        self.mission = "Build experiences that feel magical"
-        self.superpowers = [
-            "AI Agents & RAG Systems",
-            "Cross-Platform Magic (Flutter)",
-            "Scalable Web & ERP Solutions",
-            "Turning Cricket into Intelligent Conversations 🏏"
-        ]
-    
-    def current_focus(self):
-        return "Crafting intelligent systems that learn, adapt, and deliver value"
-    
-    def fun_fact(self):
-        return "I speak fluent Python, TypeScript, Dart... and a bit of cricket strategy ⚡"
-I don't just write code — I engineer delightful digital experiences. From AI-powered cricket analysts to full-fledged business ERPs and beautiful cross-platform apps, I love bringing ambitious ideas to life.
+> "I don't just write code. I architect experiences that feel alive."
 
-🛠️ My Arsenal
-Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&#x26;logo=typescript&#x26;logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&#x26;logo=dart&#x26;logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&#x26;logo=javascript&#x26;logoColor=black" alt="JavaScript">
-Frameworks & Tools
+From building an **AI Cricket Intelligence System** that understands strategy like a coach, to crafting complete ERP platforms and beautiful cross-platform mobile apps — I thrive at the intersection of **AI, elegant design, and real business impact**.
 
-Frontend: React, Next.js, Flutter, Tailwind
-Backend: FastAPI, Node.js, Express
-AI/ML: Google Gemini, RAG, Vector DBs (Endee.io), LangChain-style agents
-Mobile: Flutter (iOS + Android + Web + Desktop)
-Others: Docker, Git, Firebase, QA Automation, DSA
+---
 
+### 🎥 Project Showreels
 
-🔥 Featured Creations
-🏏 Cric-IQAI-Powered Cricket Intelligence
+**Cric-IQ — AI Cricket Intelligence**  
+*Ask anything. Get grounded, intelligent answers.*
 
-        Semantic search + RAG + Agentic AI using Endee vector database.
+[![Cric-IQ Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_HERE)
 
-        Ask anything about players, strategies, records — get grounded answers.
+**JeduAI — Cross-Platform AI Learning App**  
+*Flutter-powered education platform with AI features*
 
-        FastAPI • Gemini • Docker→ Repo🤖 JeduAI AppCross-Platform AI Education Platform
+[![JeduAI Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_HERE)
 
-        Full-featured Flutter app with online classes, assessments, AI translation,
+*(Replace the links above with actual YouTube video URLs of your project demos. You can also use `.gif` files hosted in your repo for autoplay previews.)*
 
-        Firebase backend, admin systems, and more.→ Repo💼 SmartBiz ERPSmart Business Management System
+---
 
-        Complete ERP solution for modern businesses.→ Repo🌐 Grace ImpexProfessional Portfolio Website
+### 🛠️ Tech Arsenal
 
-        Elegant, high-performance site built with TypeScript.→ Repo
-More projects: All Repositories
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Shafiq-456&#x26;show_icons=true&#x26;theme=tokyonight&#x26;hide_border=true&#x26;include_all_commits=true" alt="Shafiq&#x27;s GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiq-456&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true" alt="Top Languages">
+**Core Expertise**
+- **AI/ML**: RAG Systems • Gemini • Vector Databases (Endee) • Intelligent Agents
+- **Mobile**: Flutter (iOS, Android, Web, Desktop)
+- **Web**: Next.js • React • Tailwind • FastAPI
+- **Systems**: ERP Platforms • Scalable Backends • QA Automation
+- **Others**: Docker • Git • Firebase • DSA
 
-🌟 Let's Build Something Epic
-I'm currently open to full-time Software Development Engineer (SDE) roles — especially in AI, Full-Stack, or Mobile domains.
-Whether it's an intelligent agent, a scalable platform, or a pixel-perfect mobile experience — I'm all in.
-Reach out — I'm just a message away!
+---
 
-  
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
-  
+### 🔥 Selected Works
 
+| Project                    | What It Does                                      | Stack                  | Links |
+|---------------------------|---------------------------------------------------|------------------------|-------|
+| **🏏 Cric-IQ**            | AI Cricket Strategy & Stats Assistant with RAG   | Python, FastAPI, Gemini, Endee | [Repo](https://github.com/Shafiq-456/Cric-IQ-) |
+| **🤖 JeduAI App**         | Full-featured AI Education Platform              | Flutter, Dart, Firebase | [Repo](https://github.com/Shafiq-456/JeduAI-App) |
+| **💼 SmartBiz ERP**       | Modern Business Management System                | JavaScript / Full-Stack | [Repo](https://github.com/Shafiq-456/SmartBiz-ERP) |
+| **🌐 Grace Impex**        | Elegant Professional Portfolio                   | TypeScript, Next.js     | [Repo](https://github.com/Shafiq-456/grace-impex-portfolio) |
+| **🧪 GPay QA Portfolio**  | Comprehensive Manual Testing Documentation       | QA Practices           | [Repo](https://github.com/Shafiq-456/GPay-QA-Portfolio) |
 
+---
 
-  Thanks for stopping by! ✨
+### 📊 GitHub Analytics
 
-  May your code be bug-free and your coffee strong ☕
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafiq-456&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiq-456&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 🌟 Let's Create the Future
+
+Currently **open to full-time opportunities** in Full-Stack, AI/ML, or Mobile development roles.
+
+If you're building something ambitious — whether it's an intelligent product, a scalable platform, or a next-gen mobile experience — I'd love to collaborate.
+
+**Drop me a message.** The best projects start with a simple "Hi".
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <strong>Made with passion & precision ✨</strong><br>
+  <em>May your commits be clean and your bugs be few.</em>
+</div>
