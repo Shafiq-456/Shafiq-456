@@ -21,11 +21,10 @@ Currently pursuing my degree at **VSB Engineering College**, I spend my time wri
 ## Current Focus
 
 ```
-> Deepening expertise in React & TypeScript for modern web interfaces
-> Expanding Flutter/Dart skills for cross-platform mobile development
-> Exploring AI/ML integration in real-world applications
-> Strengthening fundamentals in data structures & algorithms
-> Contributing to open-source projects
+Building and improving real-world projects
+Practicing DSA and solving problems on LeetCode
+Strengthening core CS and CSBS fundamentals
+Exploring modern development tools and best practices
 ```
 
 ---
