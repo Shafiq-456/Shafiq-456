@@ -1,11 +1,9 @@
-<!-- Header Banner -->
 <div align="center">
-
-<img src="./header.svg" alt="Mohammed Shafiq - Full Stack Developer" width="860"/>
-
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=120&section=header&text=Mohammed%20Shafiq&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+<!-- Typing Animation -->
+Show Image
 </div>
-
----
 
 ## About Me
 
