@@ -1,16 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
-███████╗██╗  ██╗ █████╗ ███████╗██╗ ██████╗
-██╔════╝██║  ██║██╔══██╗██╔════╝██║██╔═══██╗
-███████╗███████║███████║█████╗  ██║██║   ██║
-╚════██║██╔══██║██╔══██║██╔══╝  ██║██║▄▄ ██║
-███████║██║  ██║██║  ██║██║     ██║╚██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚══▀▀═╝
-```
-
-### Full-Stack Developer · AI Enthusiast · Problem Solver
+<img src="./header.svg" alt="Mohammed Shafiq - Full Stack Developer" width="860"/>
 
 </div>
 
@@ -149,11 +140,9 @@ I am open to collaborations, internship opportunities, and conversations about t
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafiq-456)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiq-456)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiqhomelife@gmail.com)
 
 </div>
-
-> Replace the LinkedIn and Gmail links above with your actual profiles before publishing.
 
 ---
 
