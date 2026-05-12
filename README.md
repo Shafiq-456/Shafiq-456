@@ -5,10 +5,9 @@
 
 <br/>
 
-
-
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Mohammed+Shafiq+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Flutter+%7C+TypeScript+%7C+JavaScript;I+ship+ideas+into+real+products+%F0%9F%92%A1;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+
 <br/><br/>
 
 <!-- Badges -->
@@ -27,11 +26,7 @@ Currently pursuing my degree at VSB Engineering College, I spend my time writing
 Focused on building scalable, user-centric applications
 Experienced in working across web, mobile, and AI-powered platforms
 Passionate about open-source contribution and collaborative development
-Always learning, always shipping
 
-
-};
-```
 ---
 
 ## 🚀 Tech Stack
@@ -56,6 +51,15 @@ Always learning, always shipping
 
 ---
 
+Current Focus
+
+Building and improving real-world projects
+Practicing DSA and solving problems on LeetCode
+Strengthening core CS and CSBS fundamentals
+Exploring modern development tools and best practices
+
+---
+
 ## 🔥 Featured Projects
 
 | 🚀 Project | 📝 Description | 🛠 Stack |
@@ -69,14 +73,13 @@ Always learning, always shipping
 
 ---
 
-Current Focus
+## 📈 Contribution Graph
 
-Building and improving real-world projects
-Practicing DSA and solving problems on LeetCode
-Strengthening core CS and CSBS fundamentals
-Exploring modern development tools and best practices
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiq-456&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true&area_color=58a6ff" width="95%"/>
+</div>
 
-___
+---
 
 ## 🌐 Connect With Me
 
