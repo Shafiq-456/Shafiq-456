@@ -53,10 +53,10 @@ Passionate about open-source contribution and collaborative development
 
 Current Focus
 
-Building and improving real-world projects
-Practicing DSA and solving problems on LeetCode
-Strengthening core CS and CSBS fundamentals
-Exploring modern development tools and best practices
+- Building and improving real-world projects
+- Practicing DSA and solving problems on LeetCode
+- Strengthening core CS and CSBS fundamentals
+- Exploring modern development tools and best practices
 
 ---
 
@@ -72,13 +72,6 @@ Exploring modern development tools and best practices
 | [GFG Solutions](https://github.com/Shafiq-456/geeksforgeeks-solutions) | GeeksForGeeks problem solutions | DSA |
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiq-456&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true&area_color=58a6ff" width="95%"/>
-</div>
-
 ---
 
 ## 🌐 Connect With Me
