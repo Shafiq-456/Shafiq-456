@@ -68,7 +68,7 @@ Current Focus
 | [JeduAI App](https://github.com/Shafiq-456/JeduAI-App) | AI-powered education mobile app | Flutter / Dart |
 | [SmartBiz ERP](https://github.com/Shafiq-456/SmartBiz-ERP) | Business management ERP system | JavaScript |
 | [GPay QA Portfolio](https://github.com/Shafiq-456/GPay-QA-Portfolio) | Manual QA testing portfolio for Google Pay | QA / Testing |
-| [BrightPath](https://github.com/Shafiq-456/BrightPath) | Learning & growth platform | — |
+| [CricIQ](https://github.com/Shafiq-456/Cric-IQ-) | AI-powered Cricket Stats and Strategy Assistant using Endee vector database | Python |
 | [GFG Solutions](https://github.com/Shafiq-456/geeksforgeeks-solutions) | GeeksForGeeks problem solutions | DSA |
 
 ---
