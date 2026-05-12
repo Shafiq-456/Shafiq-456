@@ -5,9 +5,10 @@
 
 <br/>
 
+
+
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Mohammed+Shafiq+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Flutter+%7C+TypeScript+%7C+JavaScript;I+ship+ideas+into+real+products+%F0%9F%92%A1;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-
 <br/><br/>
 
 <!-- Badges -->
@@ -20,58 +21,46 @@
 ---
 
 ## 🧑‍💻 About Me
+I am a passionate full-stack developer with a strong foundation in both web and mobile application development. I enjoy building practical, AI-integrated solutions that solve real-world problems — from intelligent educational platforms to enterprise management systems.
+Currently pursuing my degree at VSB Engineering College, I spend my time writing clean code, exploring emerging technologies, and continuously sharpening my skills across the full development lifecycle — frontend, backend, databases, and quality assurance.
 
-```typescript
-const shafiq = {
-  username   : "Shafiq-456",
-  name       : "Mohammed Shafiq",
-  location   : "Tiruppur, Tamil Nadu, India 🇮🇳",
-  role       : "Full Stack Developer",
-  languages  : ["TypeScript", "JavaScript", "Dart", "Python"],
-  frameworks : ["Flutter", "React", "Node.js"],
-  currentWork: "Building impactful products — one commit at a time 🚀",
-  interests  : ["Web Dev", "Mobile Apps", "QA Testing", "AI Tools"],
-  openTo     : "Full-time roles 👀",
-  funFact    : "I debug with coffee ☕ and ship code past midnight 🌙",
+Focused on building scalable, user-centric applications
+Experienced in working across web, mobile, and AI-powered platforms
+Passionate about open-source contribution and collaborative development
+Always learning, always shipping
+
+
 };
 ```
-
 ---
 
-## 🚀 Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛠️ Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+Tech Stack
+Languages & Technologies
+<div align="left">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafiq-456&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shafiq-456&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="48%" />
+Frameworks & Libraries
+<div align="left">
+Show Image
+Show Image
+Show Image
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiq-456&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="40%" />
+Databases & Tools
+<div align="left">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
-
----
+___
 
 ## 🔥 Featured Projects
 
@@ -86,13 +75,14 @@ const shafiq = {
 
 ---
 
-## 📈 Contribution Graph
+Current Focus
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiq-456&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true&area_color=58a6ff" width="95%"/>
-</div>
+Building and improving real-world projects
+Practicing DSA and solving problems on LeetCode
+Strengthening core CS and CSBS fundamentals
+Exploring modern development tools and best practices
 
----
+___
 
 ## 🌐 Connect With Me
 
