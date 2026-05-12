@@ -34,33 +34,27 @@ Always learning, always shipping
 ```
 ---
 
-Tech Stack
-Languages & Technologies
-<div align="left">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
-Frameworks & Libraries
-<div align="left">
-Show Image
-Show Image
-Show Image
-</div>
-Databases & Tools
-<div align="left">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
-___
+
+---
 
 ## 🔥 Featured Projects
 
