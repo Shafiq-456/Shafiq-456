@@ -7,8 +7,6 @@
 
 <div align="center">
 
-<!-- Typing animation with creative dev phrases -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%9A%80+Turning+ideas+into+production-ready+products;%F0%9F%A6%8B+Flutter+%C3%97+TypeScript+%C3%97+JavaScript+%C3%97+Python;%F0%9F%A7%A0+AI-powered+apps+%7C+ERP+%7C+QA+Engineering;%F0%9F%94%A5+VSB+Engineering+College+%E2%86%92+Building+the+future;%E2%9C%A8+Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" />
 
 </div>
 
