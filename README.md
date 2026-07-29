@@ -98,46 +98,7 @@ Building:
 
 ---
 
-## ⚡ Final Thought
 
-<p align="center">
-  <b>Code is easy. Building something useful is the real game.</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
-</p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-**Data & Analytics**
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-**AI / ML**
-<br>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-00BFA6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge"/>
-
-**Web & Frameworks**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-**Tools**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-<br>
 
 ## 💼 Experience
 
@@ -204,8 +165,6 @@ Building:
 
 <br>
 
-
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -221,3 +180,16 @@ Building:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+
+
+## ⚡ Final Thought
+
+<p align="center">
+  <b>Code is easy. Building something useful is the real game.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
