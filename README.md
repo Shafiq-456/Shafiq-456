@@ -12,15 +12,7 @@
   <img src="https://img.shields.io/github/stars/Shafiq-456?style=for-the-badge&color=ffd700&logo=github&label=TOTAL+STARS"/>
 </p>
 
-</div>
-<h1 align="center">Hey 👋, I'm Shafiq Mohammed</h1>
-<h3 align="center">🚀 Software Engineer | Data & AI Enthusiast</h3>
 
-<p align="center">
-  <em>"Turning messy data into meaningful decisions."</em>
-</p>
-
----
 
 ### 🧑‍💻 About Me
 
@@ -31,27 +23,7 @@
 
 ---
 
-### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GenAI-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-2C3E50?style=for-the-badge"/>
-</p>
-
----
-
-### 🚀 Projects
-
-* 📊 **TADA AI** — Intelligent analytics platform
-* 🎓 **JeduAI Connect** — AI-powered learning ecosystem
-
----
 
 ### 📈 GitHub Stats
 
