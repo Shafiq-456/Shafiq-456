@@ -1,63 +1,125 @@
-<div align="center">
+<h1 align="center">🚀 Shafiq Mohammed</h1>
+<h3 align="center">Creative Developer • Full Stack Engineer • AI Builder</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=Mohammed%20Shafiq%20A%20S&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20%2B%20AI%20into%20Decisions%20That%20Matter&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%"/>
+<p align="center">
+  <em>“I don’t just build applications — I design intelligent systems that solve real problems.”</em>
+</p>
 
-<a href="https://github.com/Shafiq-456">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+%2B+AI%2FML+Developer;Turning+Messy+Data+Into+Business+Decisions;Final+Year+CS+%26+Business+Systems+Student;Open+to+Full-Time+Opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=550&height=45&color=58a6ff&vCenter=true&size=22"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Data+Enthusiast;Turning+Ideas+into+Real+Products;Always+Building+🚀" />
+</p>
+
+---
+
+## 🧠 Developer DNA
+
+```diff
++ Think in systems
++ Build for impact
++ Ship fast, iterate faster
+! Obsessed with solving real-world problems
+```
+
+---
+
+## ⚡ Tech Universe
+
+### 👨‍💻 Languages
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Shafiq-456&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/Shafiq-456?style=for-the-badge&color=58a6ff&logo=github&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/Shafiq-456?style=for-the-badge&color=ffd700&logo=github&label=TOTAL+STARS"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
 </p>
 
+### 🌐 Full Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+</p>
 
-### 🧑‍💻 About Me
+### 📊 Data & Analytics
 
-* 🎓 Final-year **B.Tech CSBS** student
-* 🧠 Passionate about **Data, AI & Full Stack Development**
-* 🔍 Love solving **real-world business problems with data**
-* ⚡ Focused on building **impact-driven systems, not just code**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🤖 AI / ML / GenAI
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GenAI-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4081?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Higgsfield-AI-blueviolet?style=for-the-badge"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
+## 🚀 What I Build
 
+✨ Systems that combine **Data + AI + Full Stack**
 
-### 📈 GitHub Stats
+* 📊 Intelligent analytics platforms
+* 🤖 AI-powered applications
+* 🌐 Scalable web systems
+* 📈 Business-focused data solutions
+
+---
+
+## 🧩 Current Focus
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - System Design
+
+Building:
+  - TADA AI 📊
+  - JeduAI Connect 🎓
+```
+
+---
+
+## 📈 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafiq-456&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafiq-456&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shafiq-456&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafiq-456&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📚 Currently Learning
+## 🌐 Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-orange?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/mdshafiq45">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Shafiq-456">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ⚡ Fun Line
+## ⚡ Final Thought
 
 <p align="center">
-  <b>💡 I don’t just build apps — I build decisions.</b>
+  <b>Code is easy. Building something useful is the real game.</b>
 </p>
 
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages & Query**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+</p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 **Data & Analytics**
