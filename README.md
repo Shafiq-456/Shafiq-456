@@ -98,19 +98,6 @@ Building:
 
 ---
 
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdshafiq45">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Shafiq-456">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## ⚡ Final Thought
 
 <p align="center">
@@ -217,16 +204,6 @@ Building:
 
 <br>
 
-## 🧭 Currently Learning
-
-```text
-📍 Right now, I'm focused on:
-  ├── 🧩  Data Structures & Algorithms — daily practice
-  ├── 🏗️  System Design fundamentals
-  └── 🤖  Deeper LLM integration & applied GenAI
-```
-
-<br>
 
 
 ## 🤝 Let's Connect
