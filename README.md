@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Mohammed Shafiq
 
-### 🚀 Full Stack Developer • AI Enthusiast • Final Year CSBS Student
+### 🚀 Full Stack Developer • AI Enthusiast • Creative Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+AI+Powered+Applications;Full+Stack+Developer;Python+%7C+React+%7C+FastAPI;Always+Learning+Something+New" />
 
