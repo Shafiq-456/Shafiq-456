@@ -242,7 +242,7 @@ https://linkedin.com/in/mdshafiq45
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting !
 
 If you like my work, consider giving a ⭐ to my repositories.
 
