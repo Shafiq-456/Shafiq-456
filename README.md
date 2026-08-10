@@ -30,7 +30,6 @@ Currently focused on:
 - 🤖 AI Agents
 - 🌐 Full Stack Development
 - 📊 Data Analytics
-- ☁️ Cloud Technologies
 - ⚡ FastAPI
 - 🧠 Generative AI
 
