@@ -223,12 +223,13 @@ Features
 
 # 📫 Connect With Me
 
-GitHub
+Email
+shafiqhomelife@gmail.com
 
+GitHub
 https://github.com/Shafiq-456
 
 LinkedIn
-
 https://linkedin.com/in/mdshafiq45
 
 ---
