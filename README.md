@@ -187,16 +187,6 @@ Features
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shafiq-456&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 - AI Agents
