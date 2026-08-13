@@ -18,20 +18,47 @@
 
 ## 🧠 About Me
 
-```python
-class MohammedShafiq:
-    def __init__(self):
-        self.role       = "B.Tech CSBS Student | Aspiring Fullstack Developer, AI Engineer"
-        self.bio        = "Python • React • FastAPI • SQL • AI/ML • Data Analytics 🚀"
-        self.focus      = "Currently building AI agents and sharpening my problem-solving skills"
-        self.motto      = "Day 1, or 1 Day? — I choose Day 1."
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great! ✨")
-
-me = MohammedShafiq()
-me.say_hi()
 ```
+┌──────────────────────────────────────────────────────────┐
+│  shafiq@github ~ %  neofetch                              │
+├──────────────────────────────────────────────────────────┤
+│                                                            │
+│      ⠀⠀⠀⣠⣴⣶⣦⣄⠀⠀⠀      Name     : Mohammed Shafiq         │
+│      ⠀⣴⣿⣿⣿⣿⣿⣿⣦⠀      Role     : B.Tech CSBS Student      │
+│      ⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷      Goal     : Fullstack Dev × AI Eng   │
+│      ⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿      Stack    : Python, React, FastAPI   │
+│      ⠀⠻⣿⣿⣿⣿⣿⣿⠟⠀      Focus    : Building AI Agents 🤖    │
+│      ⠀⠀⠈⠛⠿⠿⠛⠁⠀⠀      Uptime   : Learning since Day 1 🔥  │
+│                                                            │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 What drives me
+Turning problems into projects — I like taking an idea, breaking it down, and shipping it as working code. Currently deep in **AI agents**, sharpening problem-solving along the way.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ How I work
+`Python` for logic → `React` for interfaces → `FastAPI` for the glue → `SQL` + `Pandas` for the data → a little `AI/ML` magic on top ✨
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> 🧭 **My motto:** *"Day 1, or 1 Day?" — I choose Day 1.*
+
+</div>
 
 <br/>
 
