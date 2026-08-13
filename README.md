@@ -17,23 +17,12 @@
 <br/>
 
 ## 🧠 About Me
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  shafiq@github ~ %  neofetch                              │
-├──────────────────────────────────────────────────────────┤
-│                                                            │
-│      ⠀⠀⠀⣠⣴⣶⣦⣄⠀⠀⠀      Name     : Mohammed Shafiq         │
-│      ⠀⣴⣿⣿⣿⣿⣿⣿⣦⠀      Role     : B.Tech CSBS Student      │
-│      ⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷      Goal     : Fullstack Dev × AI Eng   │
-│      ⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿      Stack    : Python, React, FastAPI   │
-│      ⠀⠻⣿⣿⣿⣿⣿⣿⠟⠀      Focus    : Building AI Agents 🤖    │
-│      ⠀⠀⠈⠛⠿⠿⠛⠁⠀⠀      Uptime   : Learning since Day 1 🔥  │
-│                                                            │
-└──────────────────────────────────────────────────────────┘
-```
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Student;Aspiring+Fullstack+Developer;AI+Engineer+in+the+making" alt="roles"/> </div>
+🔭 Currently building AI agents and sharpening my problem-solving skills
+🧩 Comfortable across the stack — Python, React, FastAPI, SQL
+📊 Enjoy working with data — Pandas, NumPy, Power BI, Excel
+🤖 Exploring AI/ML and Generative AI
+💬 Motto: "Day 1, or 1 Day?" — I choose Day 1.
 
 </div>
 
