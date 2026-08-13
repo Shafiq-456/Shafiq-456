@@ -17,37 +17,18 @@
 <br/>
 
 ## 🧠 About Me
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Student;Aspiring+Fullstack+Developer;AI+Engineer+in+the+making" alt="roles"/> </div>
-🔭 Currently building AI agents and sharpening my problem-solving skills
-🧩 Comfortable across the stack — Python, React, FastAPI, SQL
-📊 Enjoy working with data — Pandas, NumPy, Power BI, Excel
-🤖 Exploring AI/ML and Generative AI
-💬 Motto: "Day 1, or 1 Day?" — I choose Day 1.
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 What drives me
-Turning problems into projects — I like taking an idea, breaking it down, and shipping it as working code. Currently deep in **AI agents**, sharpening problem-solving along the way.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ How I work
-`Python` for logic → `React` for interfaces → `FastAPI` for the glue → `SQL` + `Pandas` for the data → a little `AI/ML` magic on top ✨
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-> 🧭 **My motto:** *"Day 1, or 1 Day?" — I choose Day 1.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Student;Aspiring+Fullstack+Developer;AI+Engineer+in+the+making" alt="roles"/>
 
 </div>
+
+- 🔭 Currently building **AI agents** and sharpening my problem-solving skills
+- 🧩 Comfortable across the stack — **Python, React, FastAPI, SQL**
+- 📊 Enjoy working with data — **Pandas, NumPy, Power BI, Excel**
+- 🤖 Exploring **AI/ML** and **Generative AI**
+- 💬 Motto: *"Day 1, or 1 Day?" — I choose Day 1.*
 
 <br/>
 
