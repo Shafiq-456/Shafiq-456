@@ -7,9 +7,6 @@
 </a>
 
 <br/>
-
-<img src="https://img.shields.io/badge/CSBS%20Student-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-AI%20Agents-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-00C9A7?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 </div>
