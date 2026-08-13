@@ -18,8 +18,6 @@
 
 ## 🧠 About Me
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Student;Aspiring+Fullstack+Developer;AI+Engineer+in+the+making" alt="roles"/>
 
 </div>
