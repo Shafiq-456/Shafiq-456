@@ -1,10 +1,19 @@
- Mohammed Shafiq
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F2937&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Welcome"/>
+
+# Mohammed Shafiq
 
 **B.Tech CSBS Student | Aspiring Fullstack Developer | AI Engineer**
+
+<img src="https://img.shields.io/badge/AI%20Engineer-1f2937?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fullstack%20Developer-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 Python • React • FastAPI • SQL • AI/ML • Data Analytics
 
 [LinkedIn](https://www.linkedin.com/in/mdshafiq45/) &nbsp;|&nbsp; [Email](mailto:shafiqhomelife@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/Shafiq-456)
+
+</div>
 
 ---
 
@@ -25,6 +34,12 @@ Currently building AI agents and strengthening my problem-solving skills through
 **AI / Data:** Machine Learning, Generative AI, Power BI, Excel
 
 **Tools:** Git, GitHub
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,react,fastapi,html,css,mysql,git,github&theme=light" />
+
+</div>
 
 ---
 
