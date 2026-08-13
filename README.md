@@ -17,11 +17,6 @@
 <br/>
 
 ## 🧠 About Me
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Student;Aspiring+Fullstack+Developer;AI+Engineer+in+the+making" alt="roles"/>
-
-</div>
-
 - 🔭 Currently building **AI agents** and sharpening my problem-solving skills
 - 🧩 Comfortable across the stack — **Python, React, FastAPI, SQL**
 - 📊 Enjoy working with data — **Pandas, NumPy, Power BI, Excel**
