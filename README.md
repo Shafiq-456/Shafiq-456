@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F2937&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt=" Welcome"/>
-
 # Mohammed Shafiq
 
 **B.Tech CSBS Student | Aspiring Fullstack Developer | AI Engineer**
