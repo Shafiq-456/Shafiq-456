@@ -1,6 +1,6 @@
 # Mohammed Shafiq
 
-**B.Tech CSBS Student | Aspiring Fullstack Developer | AI Engineer**
+**B.Tech CSBS Student | Aspiring Fullstack Developer | AI Engineer  | Software Engineer**
 
 <img src="https://img.shields.io/badge/AI%20Engineer-1f2937?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fullstack%20Developer-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
