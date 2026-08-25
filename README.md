@@ -3,13 +3,6 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,818CF8,A5B4FC&height=200&section=header&text=Mohammed%20Shafiq&fontSize=48&fontAlignY=40&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20AI%20Engineer&descAlignY=62&descSize=18&animation=fadeIn" width="100%">
 
-<!-- Portrait -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait.svg">
-  <img src="assets/portrait.svg" width="220" alt="Mohammed Shafiq">
-</picture>
-
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%26+AI+Engineer;Building+AI-powered+apps+%26+tools;B.Tech+CS+%26+Business+Systems;TypeScript+%7C+Python+%7C+Dart+%7C+React" alt="Typing SVG">
 
