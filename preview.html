@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Profile assets preview</title>
+<style>
+  body { font-family: 'JetBrains Mono', monospace; background:#f6f8fa; margin:0; padding:32px; }
+  h1 { font-size:18px; }
+  .row { display:flex; gap:16px; margin-bottom:32px; flex-wrap:wrap; }
+  .card { border-radius:10px; padding:16px; width:460px; }
+  .dark { background:#0d1117; }
+  .light { background:#ffffff; border:1px solid #d0d7de; }
+  .label { color:#8b949e; font-size:11px; margin-bottom:8px; }
+  img { max-width:100%; display:block; }
+  section { margin-bottom:40px; }
+</style>
+</head>
+<body>
+  <h1>~/profile-assets-preview</h1>
+
+  <section>
+    <h2>Portrait</h2>
+    <div class="row">
+      <div class="card dark"><div class="label">dark</div><img src="assets/portrait.svg" onerror="this.src='assets/portrait-dark.svg'"></div>
+      <div class="card light"><div class="label">light</div><img src="assets/portrait.svg" onerror="this.src='assets/portrait-light.svg'"></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Skill radar</h2>
+    <div class="row">
+      <div class="card dark"><div class="label">dark</div><img src="assets/radar-dark.svg"></div>
+      <div class="card light"><div class="label">light</div><img src="assets/radar-light.svg"></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Language radar</h2>
+    <div class="row">
+      <div class="card dark"><div class="label">dark</div><img src="assets/radar-langs-dark.svg"></div>
+      <div class="card light"><div class="label">light</div><img src="assets/radar-langs-light.svg"></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Stat card</h2>
+    <div class="row">
+      <div class="card dark"><div class="label">dark</div><img src="assets/stat-card-dark.svg"></div>
+      <div class="card light"><div class="label">light</div><img src="assets/stat-card-light.svg"></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Project cards</h2>
+    <div class="row">
+      <div class="card dark"><div class="label">dark</div><img src="assets/card-tada-ai-dark.svg"></div>
+      <div class="card light"><div class="label">light</div><img src="assets/card-tada-ai-light.svg"></div>
+    </div>
+    <div class="row">
+      <div class="card dark"><div class="label">dark</div><img src="assets/card-jeduai-app-dark.svg"></div>
+      <div class="card light"><div class="label">light</div><img src="assets/card-jeduai-app-light.svg"></div>
+    </div>
+    <div class="row">
+      <div class="card dark"><div class="label">dark</div><img src="assets/card-comp-iq-dark.svg"></div>
+      <div class="card light"><div class="label">light</div><img src="assets/card-comp-iq-light.svg"></div>
+    </div>
+    <div class="row">
+      <div class="card dark"><div class="label">dark</div><img src="assets/card-cric-iq-2.o-dark.svg"></div>
+      <div class="card light"><div class="label">light</div><img src="assets/card-cric-iq-2.o-light.svg"></div>
+    </div>
+  </section>
+</body>
+</html>

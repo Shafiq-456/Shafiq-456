@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 520" width="500" height="520" font-family="JetBrains Mono, monospace">
+<polygon points="250.0,230.0 273.5,241.3 279.2,266.7 263.0,287.0 237.0,287.0 220.8,266.7 226.5,241.3" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="250.0,200.0 296.9,222.6 308.5,273.4 276.0,314.1 224.0,314.1 191.5,273.4 203.1,222.6" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="250.0,170.0 320.4,203.9 337.7,280.0 289.0,341.1 211.0,341.1 162.3,280.0 179.6,203.9" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="250.0,140.0 343.8,185.2 367.0,286.7 302.1,368.1 197.9,368.1 133.0,286.7 156.2,185.2" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<line x1="250.0" y1="260.0" x2="250.0" y2="140.0" stroke="#d0d7de" stroke-width="1"/>
+<line x1="250.0" y1="260.0" x2="343.8" y2="185.2" stroke="#d0d7de" stroke-width="1"/>
+<line x1="250.0" y1="260.0" x2="367.0" y2="286.7" stroke="#d0d7de" stroke-width="1"/>
+<line x1="250.0" y1="260.0" x2="302.1" y2="368.1" stroke="#d0d7de" stroke-width="1"/>
+<line x1="250.0" y1="260.0" x2="197.9" y2="368.1" stroke="#d0d7de" stroke-width="1"/>
+<line x1="250.0" y1="260.0" x2="133.0" y2="286.7" stroke="#d0d7de" stroke-width="1"/>
+<line x1="250.0" y1="260.0" x2="156.2" y2="185.2" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="250.0,140.0 323.4,201.5 296.5,270.6 268.2,297.8 236.3,288.5 220.7,266.7 235.6,248.5" fill="#6366F1" fill-opacity="0.35" stroke="#6366F1" stroke-width="2"/>
+<circle cx="250.0" cy="140.0" r="3.5" fill="#6366F1"/>
+<circle cx="323.4" cy="201.5" r="3.5" fill="#6366F1"/>
+<circle cx="296.5" cy="270.6" r="3.5" fill="#6366F1"/>
+<circle cx="268.2" cy="297.8" r="3.5" fill="#6366F1"/>
+<circle cx="236.3" cy="288.5" r="3.5" fill="#6366F1"/>
+<circle cx="220.7" cy="266.7" r="3.5" fill="#6366F1"/>
+<circle cx="235.6" cy="248.5" r="3.5" fill="#6366F1"/>
+<text x="250.0" y="94.4" fill="#24292f" font-size="13" text-anchor="middle">TypeScript (2662222)</text>
+<text x="379.5" y="156.8" fill="#24292f" font-size="13" text-anchor="start">Dart (2082481)</text>
+<text x="411.4" y="296.8" fill="#24292f" font-size="13" text-anchor="start">Python (1057393)</text>
+<text x="321.9" y="409.2" fill="#24292f" font-size="13" text-anchor="start">JavaScript (929669)</text>
+<text x="178.1" y="409.2" fill="#24292f" font-size="13" text-anchor="end">CSS (700766)</text>
+<text x="88.6" y="296.8" fill="#24292f" font-size="13" text-anchor="end">HTML (667703)</text>
+<text x="120.5" y="156.8" fill="#24292f" font-size="13" text-anchor="end">C++ (408010)</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" font-family="JetBrains Mono, monospace">
+<rect x="0.5" y="0.5" width="419" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="34" fill="#6366F1" font-size="17" font-weight="700">Comp-IQ</text>
+<text x="20" y="58" fill="#e6edf3" font-size="12">A tool/platform focused on computational</text>
+<text x="20" y="76" fill="#e6edf3" font-size="12">intelligence and problem-solving.</text>
+<circle cx="24" cy="128" r="5" fill="#6366F1"/>
+<text x="34" y="132" fill="#8b949e" font-size="11">TypeScript</text>
+<text x="150" y="132" fill="#8b949e" font-size="11">★ 1</text>
+<text x="220" y="132" fill="#8b949e" font-size="11">⑂ 0</text>
+</svg>

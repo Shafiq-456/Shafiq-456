@@ -1,0 +1,12 @@
+{
+  "projects": [
+    { "repo": "TADA-AI",
+      "description": "An AI-powered assistant project combining automation and intelligent task handling." },
+    { "repo": "JeduAI-App",
+      "description": "An AI-driven education app built to make learning more interactive and personalized." },
+    { "repo": "Comp-IQ",
+      "description": "A tool/platform focused on computational intelligence and problem-solving." },
+    { "repo": "Cric-IQ-2.O",
+      "description": "A cricket analytics and insights application, second iteration." }
+  ]
+}
