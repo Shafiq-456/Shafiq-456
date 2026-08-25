@@ -1,12 +1,24 @@
 {
   "projects": [
-    { "repo": "TADA-AI",
-      "description": "An AI-powered assistant project combining automation and intelligent task handling." },
-    { "repo": "JeduAI-App",
-      "description": "An AI-driven education app built to make learning more interactive and personalized." },
-    { "repo": "Comp-IQ",
-      "description": "A tool/platform focused on computational intelligence and problem-solving." },
-    { "repo": "Cric-IQ-2.O",
-      "description": "A cricket analytics and insights application, second iteration." }
+    {
+      "repo": "TADA-AI",
+      "description": "AI-powered task automation assistant — understands natural language instructions and handles delegation intelligently.",
+      "tech": ["Python", "AI/ML", "FastAPI", "OpenAI"]
+    },
+    {
+      "repo": "JeduAI-App",
+      "description": "Personalised AI education app that adapts to each learner's pace, generating quizzes and study plans on demand.",
+      "tech": ["React", "Node.js", "AI/ML", "MongoDB"]
+    },
+    {
+      "repo": "Comp-IQ",
+      "description": "Computational intelligence platform for algorithmic problem-solving with auto-generated test cases and explanations.",
+      "tech": ["Python", "TypeScript", "React", "PostgreSQL"]
+    },
+    {
+      "repo": "Cric-IQ-2.O",
+      "description": "Real-time cricket analytics engine — live stats, player performance forecasts, and match outcome predictions.",
+      "tech": ["Python", "Dart", "Flutter", "Firebase"]
+    }
   ]
 }

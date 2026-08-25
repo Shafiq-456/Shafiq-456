@@ -55,8 +55,8 @@ def curve_scale(value, max_value, curve):
 def draw_radar(axes, values_raw, out_base, show_values, accent):
     n = len(axes)
     size = 500
-    cx, cy = size / 2, size / 2 + 10
-    radius = 120
+    cx, cy = size / 2, size / 2 + 16
+    radius = 130
     max_val = max(values_raw) if values_raw else 1
 
     def point(i, frac):
@@ -66,31 +66,60 @@ def draw_radar(axes, values_raw, out_base, show_values, accent):
         return x, y
 
     for theme in ("dark", "light"):
+        bg         = "#0d1117" if theme == "dark" else "#f6f8fa"
         label_color = "#e6edf3" if theme == "dark" else "#24292f"
-        grid_color = "#30363d" if theme == "dark" else "#d0d7de"
-        fill_color = accent
+        grid_color  = "#21262d" if theme == "dark" else "#d0d7de"
+        fill_color  = accent
 
-        parts = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {size} {size+20}" width="{size}" height="{size+20}" font-family="JetBrains Mono, monospace">']
+        parts = [
+            f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {size} {size+20}" '
+            f'width="{size}" height="{size+20}" font-family="\'JetBrains Mono\', monospace">',
+            f'<defs>',
+            f'  <radialGradient id="rfill" cx="50%" cy="50%" r="50%">',
+            f'    <stop offset="0%" stop-color="{accent}" stop-opacity="0.45"/>',
+            f'    <stop offset="100%" stop-color="{accent}" stop-opacity="0.08"/>',
+            f'  </radialGradient>',
+            f'  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">',
+            f'    <feGaussianBlur stdDeviation="4" result="blur"/>',
+            f'    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>',
+            f'  </filter>',
+            f'  <filter id="dotglow" x="-100%" y="-100%" width="300%" height="300%">',
+            f'    <feGaussianBlur stdDeviation="2.5" result="blur"/>',
+            f'    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>',
+            f'  </filter>',
+            f'</defs>',
+            f'<rect width="{size}" height="{size+20}" fill="{bg}"/>',
+        ]
 
-        for ring in (0.25, 0.5, 0.75, 1.0):
+        # Grid rings
+        for idx, ring in enumerate((0.25, 0.5, 0.75, 1.0)):
             pts = " ".join(f"{point(i, ring)[0]:.1f},{point(i, ring)[1]:.1f}" for i in range(n))
-            parts.append(f'<polygon points="{pts}" fill="none" stroke="{grid_color}" stroke-width="1"/>')
+            opacity = 0.4 + idx * 0.15
+            parts.append(f'<polygon points="{pts}" fill="none" stroke="{grid_color}" stroke-width="1" stroke-opacity="{opacity:.2f}"/>')
 
+        # Axis lines
         for i in range(n):
             x, y = point(i, 1.0)
-            parts.append(f'<line x1="{cx}" y1="{cy}" x2="{x:.1f}" y2="{y:.1f}" stroke="{grid_color}" stroke-width="1"/>')
+            parts.append(f'<line x1="{cx:.1f}" y1="{cy:.1f}" x2="{x:.1f}" y2="{y:.1f}" stroke="{grid_color}" stroke-width="1" stroke-opacity="0.5"/>')
 
+        # Data polygon
         data_pts = []
         for i, raw in enumerate(values_raw):
-            frac = curve_scale(raw, max_val, 1.0) if max_val <= 100 and max(values_raw) <= 100 and False else raw / max_val
+            frac = raw / max_val
             data_pts.append(point(i, frac))
         pts_str = " ".join(f"{x:.1f},{y:.1f}" for x, y in data_pts)
-        parts.append(f'<polygon points="{pts_str}" fill="{fill_color}" fill-opacity="0.35" stroke="{fill_color}" stroke-width="2"/>')
+        # Glow layer
+        parts.append(f'<polygon points="{pts_str}" fill="{fill_color}" fill-opacity="0.25" stroke="{fill_color}" stroke-width="4" stroke-opacity="0.4" filter="url(#glow)"/>')
+        # Main polygon
+        parts.append(f'<polygon points="{pts_str}" fill="url(#rfill)" stroke="{fill_color}" stroke-width="2"/>')
+        # Dots
         for x, y in data_pts:
-            parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.5" fill="{fill_color}"/>')
+            parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4.5" fill="{fill_color}" filter="url(#dotglow)"/>')
+            parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="#ffffff" fill-opacity="0.9"/>')
 
+        # Labels
         for i, label in enumerate(axes):
-            lx, ly = point(i, 1.38)
+            lx, ly = point(i, 1.42)
             anchor = "middle"
             if lx < cx - 15:
                 anchor = "end"
@@ -98,8 +127,8 @@ def draw_radar(axes, values_raw, out_base, show_values, accent):
                 anchor = "start"
             text = label
             if show_values:
-                text = f"{label} ({values_raw[i]:.0f})" if isinstance(values_raw[i], float) else f"{label} ({values_raw[i]})"
-            parts.append(f'<text x="{lx:.1f}" y="{ly:.1f}" fill="{label_color}" font-size="13" text-anchor="{anchor}">{text}</text>')
+                text = f"{label} ({values_raw[i]:.0f}%" + ")" if isinstance(values_raw[i], float) else f"{label} ({values_raw[i]})"
+            parts.append(f'<text x="{lx:.1f}" y="{ly:.1f}" fill="{label_color}" font-size="13" text-anchor="{anchor}" font-weight="500">{text}</text>')
 
         parts.append("</svg>")
         out_path = f"{out_base}-{theme}.svg"
