@@ -25,27 +25,27 @@
 <line x1="250.0" y1="266.0" x2="193.6" y2="383.1" stroke="#21262d" stroke-width="1" stroke-opacity="0.5"/>
 <line x1="250.0" y1="266.0" x2="123.3" y2="294.9" stroke="#21262d" stroke-width="1" stroke-opacity="0.5"/>
 <line x1="250.0" y1="266.0" x2="148.4" y2="184.9" stroke="#21262d" stroke-width="1" stroke-opacity="0.5"/>
-<polygon points="250.0,136.0 329.5,202.6 300.3,277.5 269.7,306.9 235.2,296.8 218.2,273.3 234.4,253.6" fill="#6366F1" fill-opacity="0.25" stroke="#6366F1" stroke-width="4" stroke-opacity="0.4" filter="url(#glow)"/>
-<polygon points="250.0,136.0 329.5,202.6 300.3,277.5 269.7,306.9 235.2,296.8 218.2,273.3 234.4,253.6" fill="url(#rfill)" stroke="#6366F1" stroke-width="2"/>
+<polygon points="250.0,136.0 329.1,202.9 300.5,277.5 269.6,306.7 235.2,296.7 218.4,273.2 234.5,253.6" fill="#6366F1" fill-opacity="0.25" stroke="#6366F1" stroke-width="4" stroke-opacity="0.4" filter="url(#glow)"/>
+<polygon points="250.0,136.0 329.1,202.9 300.5,277.5 269.6,306.7 235.2,296.7 218.4,273.2 234.5,253.6" fill="url(#rfill)" stroke="#6366F1" stroke-width="2"/>
 <circle cx="250.0" cy="136.0" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
 <circle cx="250.0" cy="136.0" r="3" fill="#ffffff" fill-opacity="0.9"/>
-<circle cx="329.5" cy="202.6" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
-<circle cx="329.5" cy="202.6" r="3" fill="#ffffff" fill-opacity="0.9"/>
-<circle cx="300.3" cy="277.5" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
-<circle cx="300.3" cy="277.5" r="3" fill="#ffffff" fill-opacity="0.9"/>
-<circle cx="269.7" cy="306.9" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
-<circle cx="269.7" cy="306.9" r="3" fill="#ffffff" fill-opacity="0.9"/>
-<circle cx="235.2" cy="296.8" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
-<circle cx="235.2" cy="296.8" r="3" fill="#ffffff" fill-opacity="0.9"/>
-<circle cx="218.2" cy="273.3" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
-<circle cx="218.2" cy="273.3" r="3" fill="#ffffff" fill-opacity="0.9"/>
-<circle cx="234.4" cy="253.6" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
-<circle cx="234.4" cy="253.6" r="3" fill="#ffffff" fill-opacity="0.9"/>
-<text x="250.0" y="81.4" fill="#e6edf3" font-size="13" text-anchor="middle" font-weight="500">TypeScript (2662222%)</text>
-<text x="394.3" y="150.9" fill="#e6edf3" font-size="13" text-anchor="start" font-weight="500">Dart (2082481%)</text>
-<text x="430.0" y="307.1" fill="#e6edf3" font-size="13" text-anchor="start" font-weight="500">Python (1057393%)</text>
-<text x="330.1" y="432.3" fill="#e6edf3" font-size="13" text-anchor="start" font-weight="500">JavaScript (929669%)</text>
-<text x="169.9" y="432.3" fill="#e6edf3" font-size="13" text-anchor="end" font-weight="500">CSS (700766%)</text>
-<text x="70.0" y="307.1" fill="#e6edf3" font-size="13" text-anchor="end" font-weight="500">HTML (667703%)</text>
-<text x="105.7" y="150.9" fill="#e6edf3" font-size="13" text-anchor="end" font-weight="500">C++ (408010%)</text>
+<circle cx="329.1" cy="202.9" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
+<circle cx="329.1" cy="202.9" r="3" fill="#ffffff" fill-opacity="0.9"/>
+<circle cx="300.5" cy="277.5" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
+<circle cx="300.5" cy="277.5" r="3" fill="#ffffff" fill-opacity="0.9"/>
+<circle cx="269.6" cy="306.7" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
+<circle cx="269.6" cy="306.7" r="3" fill="#ffffff" fill-opacity="0.9"/>
+<circle cx="235.2" cy="296.7" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
+<circle cx="235.2" cy="296.7" r="3" fill="#ffffff" fill-opacity="0.9"/>
+<circle cx="218.4" cy="273.2" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
+<circle cx="218.4" cy="273.2" r="3" fill="#ffffff" fill-opacity="0.9"/>
+<circle cx="234.5" cy="253.6" r="4.5" fill="#6366F1" filter="url(#dotglow)"/>
+<circle cx="234.5" cy="253.6" r="3" fill="#ffffff" fill-opacity="0.9"/>
+<text x="250.0" y="81.4" fill="#e6edf3" font-size="13" text-anchor="middle" font-weight="500">TypeScript (2692466%)</text>
+<text x="394.3" y="150.9" fill="#e6edf3" font-size="13" text-anchor="start" font-weight="500">Dart (2096644%)</text>
+<text x="430.0" y="307.1" fill="#e6edf3" font-size="13" text-anchor="start" font-weight="500">Python (1073469%)</text>
+<text x="330.1" y="432.3" fill="#e6edf3" font-size="13" text-anchor="start" font-weight="500">JavaScript (935992%)</text>
+<text x="169.9" y="432.3" fill="#e6edf3" font-size="13" text-anchor="end" font-weight="500">CSS (705531%)</text>
+<text x="70.0" y="307.1" fill="#e6edf3" font-size="13" text-anchor="end" font-weight="500">HTML (672243%)</text>
+<text x="105.7" y="150.9" fill="#e6edf3" font-size="13" text-anchor="end" font-weight="500">C++ (410785%)</text>
 </svg>
