@@ -160,17 +160,6 @@ stack = {
 </tr>
 </table>
 
-<sub>
-
-| Project | Stack | Link |
-|---|---|---|
-| **TADA-AI** | Python · AI/ML · FastAPI · OpenAI | [→ repo](https://github.com/Shafiq-456/TADA-AI) |
-| **JeduAI-App** | React · Node.js · AI/ML · MongoDB | [→ repo](https://github.com/Shafiq-456/JeduAI-App) |
-| **Comp-IQ** | Python · TypeScript · React · PostgreSQL | [→ repo](https://github.com/Shafiq-456/Comp-IQ) |
-| **Cric-IQ 2.O** | Python · Dart · Flutter · Firebase | [→ repo](https://github.com/Shafiq-456/Cric-IQ-2.O) |
-
-</sub>
-
 <br/>
 
 <div align="center">
