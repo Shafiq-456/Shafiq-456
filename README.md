@@ -19,14 +19,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shafiq-456&color=6366f1&style=flat-square&label=profile+views" alt="profile views">
-
-</div>
-
-<br/>
-
 ## `~/` whoami
 
 ```console
