@@ -1,31 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hi%20There,%20I'm%20Shafiq%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
+# Mohammed Shafiq
 
-<a href="https://md-shafiq.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+products;Fullstack+Developer+%7C+B.Tech+CSBS;Always+shipping+something+new;Welcome+to+my+GitHub+%F0%9F%91%8B&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=800&color=2575FC&vCenter=true&size=22"/>
-</a>
+**Fullstack Developer | Aspiring AI Engineer**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-md--shafiq.netlify.app-2575FC?style=flat-square)](https://md-shafiq.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdshafiq45-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshafiq45/)
+[![Email](https://img.shields.io/badge/Email-shafiqhomelife%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shafiqhomelife@gmail.com)
 
 </div>
 
 <br>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380">
+## About
 
-### 🚀 About Me
+- B.Tech in Computer Science and Business Systems (CSBS), VSB Engineering College (Autonomous), Karur — 2023–2027
+- Building fullstack and AI-driven applications, with current work on **TADA-AI**, **JeduAI-App**, **Comp-IQ**, and **Cric-IQ-2.O**
+- Focused on strengthening AI/ML integration and scalable web development
 
-- 🎓 B.Tech Computer Science & Business Systems @ **VSB Engineering College (Autonomous)**, Karur — 2023–2027
-- 💡 Aspiring **Fullstack Developer** & **AI Engineer**
-- 🔭 Currently building **TADA-AI**, **JeduAI-App**, **Comp-IQ** & **Cric-IQ-2.O**
-- 🌱 Sharpening skills in AI/ML integration, scalable web apps & data-driven products
-- 📫 Reach me at **shafiqhomelife@gmail.com**
-- 🌐 Portfolio: **[md-shafiq.netlify.app](https://md-shafiq.netlify.app)**
+<br>
 
-<br clear="right">
-
----
-
-### 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -35,24 +30,20 @@
 
 <br>
 
-<div align="center">
-
 | Skill | Proficiency |
 |---|---|
-| 🐍 Python | ![](https://progress-bar.dev/90) |
-| ☕ Java | ![](https://progress-bar.dev/80) |
-| 📘 TypeScript | ![](https://progress-bar.dev/85) |
-| 💛 JavaScript | ![](https://progress-bar.dev/80) |
-| 🟢 Node.js | ![](https://progress-bar.dev/70) |
-| 🐬 MySQL | ![](https://progress-bar.dev/75) |
-| 🐙 GitHub | ![](https://progress-bar.dev/70) |
-| 🎨 HTML/CSS | ![](https://progress-bar.dev/80) |
+| Python | ![](https://progress-bar.dev/90) |
+| Java | ![](https://progress-bar.dev/80) |
+| TypeScript | ![](https://progress-bar.dev/85) |
+| JavaScript | ![](https://progress-bar.dev/80) |
+| Node.js | ![](https://progress-bar.dev/70) |
+| MySQL | ![](https://progress-bar.dev/75) |
+| GitHub | ![](https://progress-bar.dev/70) |
+| HTML/CSS | ![](https://progress-bar.dev/80) |
 
-</div>
+<br>
 
----
-
-### 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -63,15 +54,11 @@
 
 <img src="https://streak-stats.demolab.com/?user=Shafiq-456&theme=tokyonight&hide_border=true" width="60%" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiq-456&theme=tokyo-night&hide_border=true" width="90%" />
-
 </div>
 
----
+<br>
 
-### 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -91,38 +78,12 @@
 
 </div>
 
----
+> If any card above shows a broken image, double-check the repo name's exact spelling/casing on GitHub and confirm it's public — the pin service can't render private or mismatched repos.
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shafiq-456/Shafiq-456/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
-
-> 💡 The snake animation above needs a one-time GitHub Actions workflow to generate — instructions are below.
-
----
+<br>
 
 <div align="center">
 
-### 🤝 Connect With Me
-
-<a href="https://www.linkedin.com/in/mdshafiq45/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shafiqhomelife@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://md-shafiq.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-2575FC?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shafiq-456&color=2575fc&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Shafiq-456&color=2575fc&style=flat-square&label=Profile+Views)
 
 </div>
