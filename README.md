@@ -43,47 +43,15 @@
 
 <br>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shafiq-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiq-456&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Shafiq-456&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
-<br>
-
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Shafiq-456/TADA-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiq-456&repo=TADA-AI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Shafiq-456/JeduAI-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiq-456&repo=JeduAI-App&theme=tokyonight&hide_border=true" />
-</a>
-<br>
-<a href="https://github.com/Shafiq-456/Comp-IQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiq-456&repo=Comp-IQ&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Shafiq-456/Cric-IQ-2.O">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiq-456&repo=Cric-IQ-2.O&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> If any card above shows a broken image, double-check the repo name's exact spelling/casing on GitHub and confirm it's public — the pin service can't render private or mismatched repos.
+- **[TADA-AI](https://github.com/Shafiq-456/TADA-AI)**
+- **[JeduAI-App](https://github.com/Shafiq-456/JeduAI-App)**
+- **[Comp-IQ](https://github.com/Shafiq-456/Comp-IQ)**
+- **[Cric-IQ-2.O](https://github.com/Shafiq-456/Cric-IQ-2.O)**
 
 <br>
 
-<div align="center">
+## Connect
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shafiq-456&color=2575fc&style=flat-square&label=Profile+Views)
-
-</div>
+[Portfolio](https://md-shafiq.netlify.app) · [LinkedIn](https://www.linkedin.com/in/mdshafiq45/) · [Email](mailto:shafiqhomelife@gmail.com)
