@@ -30,19 +30,6 @@
 
 <br>
 
-| Skill | Proficiency |
-|---|---|
-| Python | ![](https://progress-bar.dev/90) |
-| Java | ![](https://progress-bar.dev/80) |
-| TypeScript | ![](https://progress-bar.dev/85) |
-| JavaScript | ![](https://progress-bar.dev/80) |
-| Node.js | ![](https://progress-bar.dev/70) |
-| MySQL | ![](https://progress-bar.dev/75) |
-| GitHub | ![](https://progress-bar.dev/70) |
-| HTML/CSS | ![](https://progress-bar.dev/80) |
-
-<br>
-
 ## Featured Projects
 
 - **[TADA-AI](https://github.com/Shafiq-456/TADA-AI)**
