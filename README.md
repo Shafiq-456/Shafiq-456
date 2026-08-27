@@ -1,231 +1,486 @@
-## 🧠 Who Am I?
+# 👋 Hi, I'm Mohammed Shafiq
 
-<table>
-<tr>
-<td width="55%">
+### Computer Science & Business Systems Student | AI & Full-Stack Developer
 
-### 👋 Mohammed Shafiq
+I build software around one simple idea:
 
-I'm a **Computer Science & Business Systems student** who loves turning ambitious ideas into **real, usable software**.
+> **A good product doesn't just solve a technical problem — it solves a real problem for a real person.**
 
-My playground sits at the intersection of:
+I'm interested in **Artificial Intelligence, Generative AI, Full-Stack Development, Data Analytics, Automation, and intelligent software systems**.
 
-**🤖 Artificial Intelligence**
-**💻 Full-Stack Development**
-**📊 Data & Business Intelligence**
-**⚡ Automation & Intelligent Systems**
-
-I don't just want to build applications that *work*.
-
-> **I want to build applications that make people say
-> "How did I manage without this?"**
-
-</td>
-
-<td width="45%">
-
-```text
-┌─────────────────────────┐
-│     DEVELOPER MODE      │
-├─────────────────────────┤
-│                         │
-│  🤖 AI                  │
-│  💻 Full-Stack          │
-│  📊 Data                │
-│  🧠 Problem Solving     │
-│  🚀 Product Building    │
-│                         │
-│  STATUS                 │
-│  ████████████░  BUILD   │
-│                         │
-└─────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-### ⚙️ What I Do
-
-```text
-💡 IDEA
-   ↓
-🔍 RESEARCH
-   ↓
-🧠 THINK
-   ↓
-🏗️ BUILD
-   ↓
-🤖 ADD INTELLIGENCE
-   ↓
-🌐 DEPLOY
-   ↓
-📈 ITERATE
-```
-
-I enjoy taking a problem from **"this should exist"** to a working product — from architecture and UI to AI integration, backend logic, databases, and deployment.
-
-### 🚀 Currently Exploring
-
-| Area               | What I'm Exploring                                 |
-| ------------------ | -------------------------------------------------- |
-| 🤖 AI              | Generative AI · AI Agents · LLM Applications       |
-| 🔎 RAG             | Retrieval-Augmented Generation · Knowledge Systems |
-| 💻 Engineering     | Full-Stack Architecture · APIs · Backend Systems   |
-| 📊 Data            | Analytics · Visualization · Business Intelligence  |
-| 🧩 Problem Solving | DSA · SQL · Computational Thinking                 |
-| ☁️ Deployment      | Cloud Platforms · CI/CD · Production Systems       |
-
-### 🧬 My Developer DNA
-
-```text
-CURIOUS       → I ask "why?" before "how?"
-CREATIVE      → I turn ideas into experiences.
-ANALYTICAL    → I break complex problems into smaller ones.
-PERSISTENT    → I keep debugging until it works.
-PRODUCT-MINDED → I care about usefulness, not just code.
-ALWAYS LEARNING → Every project is another level unlocked.
-```
-
-### 🎯 The Bigger Picture
-
-I'm working toward becoming an engineer who can move comfortably across the entire product lifecycle:
-
-**Problem → Idea → AI → Code → Product → Users**
-
-And I'm just getting started. 🚀
-
-# ⚡ Tech Arsenal
-
-### 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js" />
-</p>
-
-### 🌐 Frontend & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,fastapi" />
-</p>
-
-### 🗄️ Data & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-`Pandas` · `NumPy` · `SQL` · `Microsoft Excel` · `Power BI` · `Data Visualization`
-
-### 🤖 AI & Intelligent Systems
-
-`Generative AI` · `Prompt Engineering` · `NLP` · `AI Agents` · `RAG` · `LLM Applications`
-
-### 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,firebase,supabase" />
-</p>
+I enjoy taking an idea from a simple thought, researching whether it is actually useful, designing the solution, building the application, integrating intelligence into it, and finally putting it into the hands of users.
 
 ---
 
-# 🚀 Featured Projects
+## 🧑‍💻 About Me
+
+I'm currently pursuing my **B.Tech in Computer Science & Business Systems**.
+
+My development journey revolves around combining **software engineering + artificial intelligence + data + business thinking**.
+
+Rather than limiting myself to one particular area, I enjoy understanding how different technologies connect to create a complete product.
+
+### What interests me
+
+* 🤖 Generative AI and Large Language Models
+* 🧠 AI Agents and intelligent automation
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 💻 Full-Stack Web Development
+* 📊 Data Analytics and Business Intelligence
+* 🗄️ Databases and SQL
+* ⚡ API development and backend systems
+* 🧩 Data Structures and problem solving
+* 🚀 Building and deploying real-world applications
+
+### How I approach development
+
+I generally think about a project through five questions:
+
+**1. What problem am I solving?**
+
+Understanding the actual problem before choosing the technology.
+
+**2. Who is going to use it?**
+
+A technically impressive application is still unsuccessful if it doesn't provide a useful experience.
+
+**3. What is the simplest effective solution?**
+
+I prefer practical architecture over unnecessary complexity.
+
+**4. Where can intelligence or automation help?**
+
+AI should have a meaningful role rather than being added simply because it is popular.
+
+**5. Can I actually ship it?**
+
+Development, testing, deployment, iteration, and improvement are all part of building the product.
+
+---
+
+# 🚀 What I Build
+
+My projects usually fall into a few areas.
+
+### 🤖 AI-Powered Applications
+
+Applications that use LLMs, AI agents, RAG, NLP, or intelligent automation to solve practical problems.
+
+### 💻 Full-Stack Products
+
+Applications where I work across the frontend, backend, APIs, databases, authentication, and deployment.
+
+### 📊 Data & Business Intelligence
+
+Systems that transform raw information into dashboards, insights, recommendations, and decisions.
+
+### 🔍 Research & Intelligence Platforms
+
+Applications that collect and analyze information to help users make better decisions.
+
+### 🏏 Domain-Specific Applications
+
+I also enjoy building technology around areas that people already interact with, such as sports, education, and business.
+
+---
+
+# 🛠️ Technology I Work With
+
+## Programming
+
+* Python
+* Java
+* JavaScript
+
+## Frontend
+
+* HTML5
+* CSS3
+* React.js
+
+## Backend
+
+* FastAPI
+* REST APIs
+
+## Databases
+
+* SQL
+* Firebase
+* Supabase
+
+## Data & Analytics
+
+* Pandas
+* NumPy
+* Microsoft Excel
+* Power BI
+* Data Visualization
+
+## Artificial Intelligence
+
+* Generative AI
+* Prompt Engineering
+* Large Language Model Applications
+* NLP Fundamentals
+* AI Agents
+* Retrieval-Augmented Generation
+
+## Development Tools
+
+* Git
+* GitHub
+* VS Code
+
+## Deployment & Platforms
+
+* Vercel
+* Netlify
+* Render
+* Firebase
+* Supabase
+
+---
+
+# 🌟 Featured Projects
+
+The projects below represent the areas I'm most interested in exploring.
+
+---
 
 ## 🤖 TADA AI — Autonomous Data Analyst Agent
 
-> An AI-powered data analysis platform designed to automate the journey from raw data to meaningful insights.
+**TADA AI** is an AI-powered data analysis application designed to make working with datasets more accessible.
 
-**Core capabilities**
+Instead of requiring users to manually perform every analysis step, the system aims to allow users to interact with their data using an intelligent workflow.
 
-* 📂 Data ingestion and processing
-* 🤖 AI-powered analysis
-* 📊 Automated insights
-* 📈 Data visualization
-* 🧠 Natural-language interaction with data
-* ⚡ Full-stack AI workflow
+### What it explores
 
-**Stack:** `Python` `FastAPI` `React` `Pandas` `Generative AI`
+* Dataset processing
+* Automated data analysis
+* AI-assisted insight generation
+* Data visualization
+* Natural-language interaction
+* Intelligent analytical workflows
 
-[🔗 Live Demo](https://tada-ai.vercel.app) · [💻 Source Code](https://github.com/Shafiq-456/TADA-AI)
+### Technologies
+
+`Python` `FastAPI` `React` `Pandas` `Generative AI`
+
+🔗 **Live:** https://tada-ai.vercel.app
+
+💻 **Repository:** https://github.com/Shafiq-456/TADA-AI
 
 ---
 
 ## 🧬 Syrax — AI Innovation Research & Project Intelligence
 
-> An AI-powered platform that helps analyze project ideas through research, technology discovery, and competitive intelligence.
+**Syrax** is an AI-powered project intelligence concept designed to help developers and innovators evaluate ideas before investing significant time into building them.
 
-**Core capabilities**
+The idea is simple:
 
-* 🔍 Project idea analysis
-* 📚 Research & paper discovery
-* 🧑‍💻 GitHub ecosystem analysis
-* 📈 Market & competitor research
-* 💡 Innovation insights
-* 🧠 AI-assisted project intelligence
+> **Before building an idea, understand the world around it.**
 
-**Stack:** `Generative AI` `RAG` `NLP` `React` `Python`
+The platform explores how AI can assist with:
 
-> **Mission:** Help developers move from *"I have an idea"* → *"I know how to build it."*
+* Project idea analysis
+* Existing solution discovery
+* GitHub project research
+* Research paper discovery
+* Technology exploration
+* Competitor analysis
+* Market research
+* Innovation assessment
+
+The larger goal is to transform the traditional process of:
+
+**Idea → Search → Research → Decide**
+
+into:
+
+**Idea → AI Research → Intelligence → Better Decision**
+
+### Technologies
+
+`Generative AI` `RAG` `NLP` `React` `Python`
 
 ---
 
 ## 🏏 Cric-IQ — Cricket Intelligence Platform
 
-> A modern cricket-focused platform combining live cricket information, analytics, and intelligent user experiences.
+**Cric-IQ** explores how technology can create a more intelligent cricket experience.
 
-**Focus areas**
+The project focuses on combining cricket information, statistics, APIs, analytics, and modern web experiences.
 
-* 🏏 Cricket data
-* 📊 Statistics & analytics
-* ⚡ Real-time information
-* 🤖 Intelligent features
-* 🎨 Interactive UI/UX
+### Areas explored
 
-**Stack:** `React` `Python` `FastAPI` `APIs` `AI`
+* Cricket data
+* Match information
+* Player statistics
+* Data-driven insights
+* Interactive interfaces
+* API integration
+* Intelligent cricket experiences
 
-[🔗 Live Demo](https://cricketiq-backend.onrender.com) · [💻 Source Code](https://github.com/Shafiq-456/Cric-IQ-)
+### Technologies
 
----
+`React` `Python` `FastAPI` `APIs` `AI`
 
-## 🧠 Comp-IQ — Competitor Intelligence
+🔗 **Live:** https://cricketiq-backend.onrender.com
 
-> A platform designed to analyze competitors and transform scattered information into actionable business intelligence.
-
-**Stack:** `React` `AI` `Data Analysis` `APIs`
-
-[🔗 Live Demo](https://comp-iq-three.vercel.app) · [💻 Source Code](https://github.com/Shafiq-456/Comp-IQ)
+💻 **Repository:** https://github.com/Shafiq-456/Cric-IQ-
 
 ---
 
-## 🏢 SmartBiz-ERP
+## 🧠 Comp-IQ — Competitor Intelligence Platform
 
-> A modern business management platform designed to bring business operations into one intelligent system.
+**Comp-IQ** focuses on transforming competitor information into useful business intelligence.
 
-**Focus areas**
+The project explores how software and AI can help users understand competitors without manually collecting and organizing large amounts of information.
 
-* 📦 Business operations
-* 📊 Analytics
-* 👥 Management
-* 💰 Business intelligence
-* ⚙️ Workflow automation
+### Key concepts
 
-**Stack:** `React` `JavaScript` `Database` `AI`
+* Competitor research
+* Information aggregation
+* Business intelligence
+* Comparative analysis
+* AI-assisted insights
+* Data-driven decision making
 
-[🔗 Live Demo](https://smart-biz-erp.vercel.app) · [💻 Source Code](https://github.com/Shafiq-456/SmartBiz-ERP)
+### Technologies
 
----
+`React` `AI` `APIs` `Data Analysis`
 
-## 🎓 JeduAI
+🔗 **Live:** https://comp-iq-three.vercel.app
 
-> An AI-powered education platform focused on creating a smarter and more connected learning experience.
-
-**Stack:** `React` `AI` `Web Technologies`
-
-[🔗 Live Demo](https://jeduai-connect.netlify.app) · [💻 Source Code](https://github.com/Shafiq-456/JeduAI-App)
+💻 **Repository:** https://github.com/Shafiq-456/Comp-IQ
 
 ---
 
-# 📊 GitHub Analytics
+## 🏢 SmartBiz-ERP — Business Management Platform
+
+**SmartBiz-ERP** explores how modern web applications can bring different business operations into a unified platform.
+
+The project focuses on creating a centralized environment for business-related workflows, information, and analytics.
+
+### Areas explored
+
+* Business management
+* Operational workflows
+* Data management
+* Analytics
+* Business intelligence
+* Automation
+
+### Technologies
+
+`React` `JavaScript` `Database` `AI`
+
+🔗 **Live:** https://smart-biz-erp.vercel.app
+
+💻 **Repository:** https://github.com/Shafiq-456/SmartBiz-ERP
+
+---
+
+## 🎓 JeduAI — AI Education Platform
+
+**JeduAI** explores how artificial intelligence can be incorporated into the education experience.
+
+The goal is to create a more connected and intelligent learning environment through modern web technologies and AI-powered functionality.
+
+### Areas explored
+
+* AI-assisted learning
+* Educational experiences
+* Interactive interfaces
+* Personalized functionality
+* Modern web development
+
+### Technologies
+
+`React` `AI` `JavaScript` `Web Technologies`
+
+🔗 **Live:** https://jeduai-connect.netlify.app
+
+💻 **Repository:** https://github.com/Shafiq-456/JeduAI-App
+
+---
+
+# 🧠 Projects Are My Playground
+
+I don't see projects only as portfolio items.
+
+Each project is an opportunity to learn something different.
+
+| Project      | What it helped me explore                   |
+| ------------ | ------------------------------------------- |
+| TADA AI      | AI + Data Analysis + Agents                 |
+| Syrax        | AI Research + RAG + Intelligence            |
+| Cric-IQ      | APIs + Data + Domain Applications           |
+| Comp-IQ      | Competitor Intelligence + Business Analysis |
+| SmartBiz-ERP | Business Systems + Full-Stack Development   |
+| JeduAI       | AI + Education Technology                   |
+
+This is also why I enjoy building different types of applications.
+
+Every project adds another piece to the larger engineering picture.
+
+---
+
+# 📚 Currently Learning
+
+Technology never really stops moving.
+
+My current learning areas include:
+
+### Artificial Intelligence
+
+* Generative AI
+* LLM application development
+* AI agents
+* RAG architectures
+* Prompt engineering
+* NLP fundamentals
+
+### Software Engineering
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* SQL
+* Backend development
+* API architecture
+* System design fundamentals
+* Git and software development practices
+
+### Data
+
+* Data analysis
+* Data visualization
+* Business intelligence
+* Pandas
+* NumPy
+* Power BI
+* Excel
+
+---
+
+# 🎯 My Current Goal
+
+I'm working toward becoming a developer who can understand the complete journey of a software product.
+
+**Problem**
+
+↓
+
+**Research**
+
+↓
+
+**Solution**
+
+↓
+
+**Architecture**
+
+↓
+
+**Development**
+
+↓
+
+**AI / Data Integration**
+
+↓
+
+**Testing**
+
+↓
+
+**Deployment**
+
+↓
+
+**User Feedback**
+
+↓
+
+**Improvement**
+
+I want to become comfortable not only writing code, but also understanding **why the code needs to exist in the first place**.
+
+---
+
+# 💭 Things I Believe About Software
+
+### Build before you overthink.
+
+Ideas become clearer once you start building.
+
+### AI is a tool, not the product.
+
+Adding AI to an application doesn't automatically make it intelligent. The AI needs to solve a meaningful problem.
+
+### Good engineering starts with good questions.
+
+Before asking *"How do I implement this?"*, I try to ask *"What exactly am I trying to solve?"*
+
+### Deployment matters.
+
+A project sitting on a laptop is an experiment.
+
+A deployed project is something people can actually interact with.
+
+### Every failed project teaches something.
+
+Not every experiment becomes a successful product — but every experiment can make the next one better.
+
+---
+
+# 🔭 What's Next?
+
+I'm currently focused on improving in three directions:
+
+### 01 — Engineering
+
+Becoming stronger in:
+
+* DSA
+* SQL
+* Backend development
+* Software architecture
+* Problem solving
+
+### 02 — Artificial Intelligence
+
+Going deeper into:
+
+* LLMs
+* RAG
+* AI Agents
+* AI automation
+* Intelligent applications
+
+### 03 — Product Development
+
+Learning how to transform:
+
+**an idea → a working product → a useful product**
+
+---
+
+# 🏆 My Developer Journey
+
+I'm still early in my journey, but I'm deliberately building across multiple areas rather than focusing on only one technology.
+
+From simple programming exercises to full-stack applications, from data analysis to AI-powered systems, each step has helped me understand software development from a different perspective.
+
+The objective is not to know every technology.
+
+The objective is to become someone who can **learn the technology required to solve the problem.**
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shafiq-456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
@@ -233,124 +488,15 @@ And I'm just getting started. 🚀
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafiq-456&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafiq-456&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiq-456&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🧩 What I'm Currently Building
-
-```yaml
-current_focus:
-  - Generative AI
-  - AI Agents
-  - RAG Applications
-  - Full-Stack Development
-  - Data Analytics
-  - Business Intelligence
-  - Automation
-
-improving:
-  - Data Structures & Algorithms
-  - SQL
-  - System Design Fundamentals
-  - Software Engineering
-  - Problem Solving
-
-building:
-  - AI-powered products
-  - Intelligent dashboards
-  - Developer tools
-  - Real-world automation systems
-```
-
----
-
-# 🏆 Developer Mindset
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Research
-   ↓
-Design
-   ↓
-Build
-   ↓
-Test
-   ↓
-Deploy
-   ↓
-Improve
-```
-
-> **"Don't just build software. Build something useful."**
-
----
-
-# 💡 My Development Philosophy
-
-### 01 — Solve Problems
-
-I start with the problem rather than the technology.
-
-### 02 — Build End-to-End
-
-I enjoy taking an idea from concept → architecture → development → deployment.
-
-### 03 — Use AI Intelligently
-
-AI should amplify engineering ability, not replace engineering thinking.
-
-### 04 — Keep Learning
-
-Technology changes quickly. Consistent learning is part of the job.
-
-### 05 — Ship
-
-A working product teaches more than an unfinished idea.
-
----
-
-# 🌱 Currently Learning
-
-* 🧠 Advanced Generative AI
-* 🤖 AI Agent architectures
-* 🔎 Retrieval-Augmented Generation
-* 🗃️ Advanced SQL
-* 🧩 Data Structures & Algorithms
-* 🏗️ System Design
-* ☁️ Cloud & Deployment
-* 📊 Advanced Data Analytics
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Shafiq-456">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  <i>Open to learning, collaboration, internships, and exciting software engineering opportunities.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiq-456&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -358,19 +504,56 @@ A working product teaches more than an unfinished idea.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shafiq-456&label=Profile%20Views&color=6E56CF&style=for-the-badge" />
-</p>
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+* 🤝 Collaborating on interesting projects
+* 🤖 Exploring AI applications
+* 💡 Discussing new product ideas
+* 💻 Open-source development
+* 📚 Learning from other developers
+* 🚀 Building useful software
+
+### Find me on GitHub
+
+**GitHub:**
+https://github.com/Shafiq-456
+
+### LinkedIn
+
+Add your actual LinkedIn profile here:
+
+**LinkedIn:**
+`YOUR-LINKEDIN-URL`
+
+---
+
+# ⭐ If You Like My Work
+
+If any of my projects are useful, interesting, or inspire an idea:
+
+**⭐ Star the repository**
+
+**🍴 Fork it**
+
+**💬 Open an issue**
+
+**🤝 Contribute**
+
+I'd love to see what other developers build with the ideas.
+
+---
 
 <p align="center">
-  <strong>⭐ If you find my projects interesting, consider giving them a star!</strong>
-</p>
 
-<p align="center">
-  <sub>Built with curiosity • powered by code • driven by ideas</sub>
+### Thanks for visiting my profile! 👋
+
+**Keep learning. Keep building. Keep shipping. 🚀**
+
 </p>
