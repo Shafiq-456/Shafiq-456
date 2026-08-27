@@ -1,38 +1,99 @@
-# 👋 Hey, I'm Mohammed Shafiq
+## 🧠 Who Am I?
 
-### `AI & Full-Stack Developer` · `Generative AI` · `Data & Automation`
+<table>
+<tr>
+<td width="55%">
 
-<p align="center">
-  <a href="https://github.com/Shafiq-456">
-    <img src="https://img.shields.io/badge/GitHub-Shafiq--456-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Final%20Year%20Student-00A67E?style=for-the-badge" />
-</p>
+### 👋 Mohammed Shafiq
 
-<p align="center">
-  <strong>Building intelligent products that turn ideas, data, and automation into useful experiences.</strong>
-</p>
+I'm a **Computer Science & Business Systems student** who loves turning ambitious ideas into **real, usable software**.
 
----
+My playground sits at the intersection of:
 
-## 🧠 About Me
+**🤖 Artificial Intelligence**
+**💻 Full-Stack Development**
+**📊 Data & Business Intelligence**
+**⚡ Automation & Intelligent Systems**
+
+I don't just want to build applications that *work*.
+
+> **I want to build applications that make people say
+> "How did I manage without this?"**
+
+</td>
+
+<td width="45%">
 
 ```text
-🎓 B.Tech Computer Science & Business Systems
-🤖 Interested in Generative AI, AI Agents & Intelligent Applications
-💻 Building full-stack applications with modern web technologies
-📊 Exploring Data Analytics, Business Intelligence & Automation
-🚀 Turning real-world problems into practical software products
-📚 Currently strengthening DSA, SQL, system thinking & software engineering
-🎯 Preparing for the next opportunity in Software / AI / Full-Stack Development
+┌─────────────────────────┐
+│     DEVELOPER MODE      │
+├─────────────────────────┤
+│                         │
+│  🤖 AI                  │
+│  💻 Full-Stack          │
+│  📊 Data                │
+│  🧠 Problem Solving     │
+│  🚀 Product Building    │
+│                         │
+│  STATUS                 │
+│  ████████████░  BUILD   │
+│                         │
+└─────────────────────────┘
 ```
 
-I enjoy building products at the intersection of **AI, software engineering, data, and business**.
+</td>
+</tr>
+</table>
 
-My goal isn't just to write code — it's to understand a problem, design a solution, build it end-to-end, and turn it into something people can actually use.
+### ⚙️ What I Do
 
----
+```text
+💡 IDEA
+   ↓
+🔍 RESEARCH
+   ↓
+🧠 THINK
+   ↓
+🏗️ BUILD
+   ↓
+🤖 ADD INTELLIGENCE
+   ↓
+🌐 DEPLOY
+   ↓
+📈 ITERATE
+```
+
+I enjoy taking a problem from **"this should exist"** to a working product — from architecture and UI to AI integration, backend logic, databases, and deployment.
+
+### 🚀 Currently Exploring
+
+| Area               | What I'm Exploring                                 |
+| ------------------ | -------------------------------------------------- |
+| 🤖 AI              | Generative AI · AI Agents · LLM Applications       |
+| 🔎 RAG             | Retrieval-Augmented Generation · Knowledge Systems |
+| 💻 Engineering     | Full-Stack Architecture · APIs · Backend Systems   |
+| 📊 Data            | Analytics · Visualization · Business Intelligence  |
+| 🧩 Problem Solving | DSA · SQL · Computational Thinking                 |
+| ☁️ Deployment      | Cloud Platforms · CI/CD · Production Systems       |
+
+### 🧬 My Developer DNA
+
+```text
+CURIOUS       → I ask "why?" before "how?"
+CREATIVE      → I turn ideas into experiences.
+ANALYTICAL    → I break complex problems into smaller ones.
+PERSISTENT    → I keep debugging until it works.
+PRODUCT-MINDED → I care about usefulness, not just code.
+ALWAYS LEARNING → Every project is another level unlocked.
+```
+
+### 🎯 The Bigger Picture
+
+I'm working toward becoming an engineer who can move comfortably across the entire product lifecycle:
+
+**Problem → Idea → AI → Code → Product → Users**
+
+And I'm just getting started. 🚀
 
 # ⚡ Tech Arsenal
 
