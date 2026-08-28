@@ -26,39 +26,46 @@ I enjoy taking an idea from **concept → research → development → deploymen
 
 **Problem → Research → Solution → Build → Deploy → Improve**
 
----
-
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 💻 Languages & Web
 
-`Python` `Java` `JavaScript`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react&perline=6" />
+  </a>
+</p>
 
-### 🌐 Frontend
+### ⚙️ Backend & Databases
 
-`HTML5` `CSS3` `React.js`
-
-### ⚙️ Backend
-
-`FastAPI` `REST APIs`
-
-### 🗄️ Database
-
-`SQL` `Firebase` `Supabase`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,firebase,supabase&perline=5" />
+  </a>
+</p>
 
 ### 🤖 AI & Data
 
-`Generative AI` `LLMs` `RAG` `AI Agents` `NLP` `Pandas` `NumPy`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,pytorch,tensorflow&perline=5" />
+  </a>
+</p>
 
-### 📊 Analytics
+<p align="center">
 
-`Power BI` `Excel` `Data Visualization`
+`Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Prompt Engineering` • `NLP`
+
+</p>
 
 ### 🔧 Tools & Deployment
 
-`Git` `GitHub` `VS Code` `Vercel` `Netlify` `Render`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=6" />
+  </a>
+</p>
 
----
 
 # 🚀 Featured Projects
 
