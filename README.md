@@ -31,41 +31,26 @@ I enjoy taking an idea from **concept → research → development → deploymen
 ### 💻 Languages & Web
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react&perline=6" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,firebase,supabase&perline=5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,firebase,supabase&perline=5" />
 </p>
 
 ### 🤖 AI & Data
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,pytorch,tensorflow&perline=5" />
-  </a>
-</p>
-
-<p align="center">
-
-`Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Prompt Engineering` • `NLP`
-
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,pytorch,tensorflow&perline=5" />
 </p>
 
 ### 🔧 Tools & Deployment
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=6" />
 </p>
-
 
 # 🚀 Featured Projects
 
