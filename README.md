@@ -63,7 +63,6 @@ An AI-powered data analysis application designed to make dataset exploration eas
 `Python` `FastAPI` `React` `Pandas` `Generative AI`
 
 🔗 **Live:** https://tada-ai.vercel.app
-💻 **GitHub:** https://github.com/Shafiq-456/TADA-AI
 
 ---
 
@@ -87,8 +86,7 @@ A modern cricket platform combining **cricket data, statistics, APIs, analytics 
 
 `React` `Python` `FastAPI` `APIs` `AI`
 
-🔗 **Live:** https://cricketiq-backend.onrender.com
-💻 **GitHub:** https://github.com/Shafiq-456/Cric-IQ-
+🔗 **Live:** https://cric-iq.netlify.app
 
 ---
 
@@ -99,7 +97,6 @@ A platform exploring how AI can transform competitor information into useful **b
 `React` `AI` `APIs` `Data Analysis`
 
 🔗 **Live:** https://comp-iq-three.vercel.app
-💻 **GitHub:** https://github.com/Shafiq-456/Comp-IQ
 
 ---
 
@@ -110,7 +107,6 @@ A centralized business management application exploring **operations, data manag
 `React` `JavaScript` `Database` `AI`
 
 🔗 **Live:** https://smart-biz-erp.vercel.app
-💻 **GitHub:** https://github.com/Shafiq-456/SmartBiz-ERP
 
 ---
 
@@ -121,7 +117,6 @@ An AI-powered education concept focused on creating a more **interactive and int
 `React` `AI` `JavaScript`
 
 🔗 **Live:** https://jeduai-connect.netlify.app
-💻 **GitHub:** https://github.com/Shafiq-456/JeduAI-App
 
 ---
 
