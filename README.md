@@ -43,22 +43,20 @@ I enjoy taking an idea from **concept → research → development → deploymen
 ### 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&perline=5" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pytorch,tensorflow&perline=5" />
 </p>
 
 ### 🧠 AI Platforms & LLMs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=chatgpt,claude,gemini&perline=3" />
-  <img src="https://cdn.simpleicons.org/grok" width="48" height="48" alt="Grok" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,grok&perline=4" />
 </p>
 
 ### 📊 Data & Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy&perline=5" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy&perline=5" />
 </p>
-
 ### 🔧 Tools & Deployment
 
 <p align="center">
