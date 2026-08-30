@@ -55,7 +55,7 @@ I enjoy taking an idea from **concept → research → development → deploymen
 ### 📊 Data & Analytics
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy&perline=5" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,pandas,numpy&perline=4" />
 </p>
 
 ### 🔧 Tools & Deployment
