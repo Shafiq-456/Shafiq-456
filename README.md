@@ -139,8 +139,6 @@ Focus: 3D Experience + Cinema Booking + Seat Intelligence + Digital Ticketing
 
 React TypeScript Three.js React Three Fiber Python FastAPI PostgreSQL Redis
 
-🔗 GitHub: https://github.com/Shafiq-456/Cine-360
-
 🔗 Live: https://cine-360.netlify.app
 
 ---
@@ -151,8 +149,6 @@ A citizen-centric government transparency platform focused on Tamil Nadu and Ind
 Focus: Civic Technology + Open Government + Public Accountability + AI-Powered Information
 
 Next.js React TypeScript Tailwind CSS Prisma SQLite Groq LLMs
-
-🔗 GitHub: https://github.com/Shafiq-456/Civic-Lens
 
 🔗 Live: https://civic-lenz.netlify.app
 
