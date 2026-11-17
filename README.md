@@ -132,6 +132,32 @@ An AI-powered education concept focused on creating a more **interactive and int
 
 ---
 
+🎬 CINE360 — Immersive 3D Cinema Booking Ecosystem
+A 3D-first cinema booking platform that lets customers explore interactive auditorium spaces, inspect individual seats, preview viewing perspectives, and manage digital tickets. It also brings together cinema administration, theatre management, analytics, and staff ticket-verification workflows.
+
+Focus: 3D Experience + Cinema Booking + Seat Intelligence + Digital Ticketing
+
+React TypeScript Three.js React Three Fiber Python FastAPI PostgreSQL Redis
+
+🔗 GitHub: https://github.com/Shafiq-456/Cine-360
+
+🔗 Live: https://cine-360.netlify.app
+
+---
+
+🏛️ Civic Lenz — Government Transparency & Public Accountability
+A citizen-centric government transparency platform focused on Tamil Nadu and India. It brings together public information, welfare schemes, infrastructure project tracking, citizen grievances, government updates, financial dashboards, and a grounded AI assistant to make public information and accountability workflows more accessible.
+
+Focus: Civic Technology + Open Government + Public Accountability + AI-Powered Information
+
+Next.js React TypeScript Tailwind CSS Prisma SQLite Groq LLMs
+
+🔗 GitHub: https://github.com/Shafiq-456/Civic-Lens
+
+🔗 Live: https://civic-lenz.netlify.app
+
+---
+
 # 📚 Currently Learning
 
 ### 🤖 Artificial Intelligence
